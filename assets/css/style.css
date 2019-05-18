@@ -46,7 +46,7 @@ body{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 18px;
     margin: 2em;
 }
-#win, #lost, #previous {
+#win, #lost, #previous, #result_msg {
     margin: 2em;
 }
 
